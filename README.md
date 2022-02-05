@@ -1,2 +1,1 @@
-# kaisraictt.github.io
-The NFT Exchange
+# The Main Website for Kigzag App
